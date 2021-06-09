@@ -14,5 +14,5 @@ twitter_name = "@skynebula"
 home_name = "Home"
 see_all = "See more"
 go_back = "Go back to"
-date_format = "ISO"  # Choose between EU day-month-year or ISO year-month-day
+date_format = "EU"  # Choose between EU day-month-year or ISO year-month-day
 flat_build = False # True or False, if True, all files will be written in the root of the website
